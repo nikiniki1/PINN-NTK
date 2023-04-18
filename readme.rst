@@ -1,6 +1,7 @@
 PINN NTK Pytorch implementation
 -------------------------------
 I'm not owner of the idea and paper, but original code use tensorflow and a I just wanted to rewrite it using Pytorch.
+Some code I copy from original repository (plotting, Sampler), but solver is mine.
 
 Problems and features
 ---------------------
